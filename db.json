@@ -11,11 +11,35 @@
       "content" : "My Second content!"
     }
   ],
+
   "comments" : [
+    
     {
       "id": 0,
       "content": "Wow such content!",
       "username": "zero_cool"
+    }
+  ],
+
+  "tweets":[
+    {
+      "id":1,
+      "user":1,
+      "gif":"",
+      "content":""
+    }
+  ],
+  "users":[
+    {
+      "id":1,
+      "name":"Vishwajeet Haldar",
+      "role":"admin",
+      "email":"onlyjeet3@gmail.com",
+      "password":"12345",
+      "avtar":"https://i.pravatar.cc/150?img=2",
+      "posts":[],
+      "followers":[],
+      "following":[]
     }
   ]
 }
